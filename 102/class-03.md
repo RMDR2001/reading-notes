@@ -23,4 +23,4 @@
 
     Para subir o enviar los archivos modificados a github, luego de haber realizado el commit es:
 
-    - git push
+    - git push.

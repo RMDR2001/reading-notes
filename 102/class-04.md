@@ -20,6 +20,6 @@
 
     Son elemento que sirven a apoyo al programador para estructurar la página, por ejemplo:
 
-    + <header>
-    + <footer>
-    + <nav>
+    + \<header>
+    + \<footer>
+    + \<nav>

@@ -1,4 +1,4 @@
-# Read 05: Diseño de paginas webcon CSS
+# Read 05: Diseño de paginas web con CSS
 
 1. **¿Cuál es el propósito de CSS?**
 

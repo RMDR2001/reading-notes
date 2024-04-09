@@ -90,7 +90,7 @@
         `<meta property="og:description" content="Descripción de la página">`
 
         `<meta property="og:image" content="URL de la imagen">`
-        
+
         `<meta property="og:url" content="URL de la página">`
 
 ## Miscelánea
@@ -99,16 +99,43 @@
 
 1. **¿Cuál es el primer paso para diseñar una página web?**
 
+    El primer paso es **"DEFINIR LO QUE SE QUIERE LOGRAR CON ÉL"**
+
 2. **¿Cuál es la pregunta más importante que se debe responder al diseñar una página web?**
+
+    - ¿Qué es exactamente lo que quiero lograr?
+
+    - ¿Cómo un sitio web me ayudará a alcanzar mis metas?
+
+    - ¿Qué es necesario hacer, y en qué orden, para alcanzar mis metas?
 
 ### Semántica
 
 1. **¿Por qué se debe utilizar un elemento `<h1>`en vez de un `<span>` para mostrar un título de primer nivel?**
 
+    `<h1>` está hecho para que se le de la función de encabeza de nivel superior, en cambio `<span>`"puede hacer que cualquier elemento *parezca* un títutlo de nivel superior"
+
 2. **¿Cuáles son los beneficios de utilizar etiquetas semánticas en nuestro HTML?**
+    Favorece en la legibilidad y accesibilidad en el código.
 
 ### ¿Qué JavaScript?
 
-1. **Describe 2 cosas que ~requieran~ de JavaScript en el navegador.**
+1. **Describe 2 cosas que *requieran* de JavaScript en el navegador.**
+
+    (Estracto de respuesta otorgado por Open AI, porque no entiendo bien la pregunta)
+
+    - Interactividad del usuario:
+
+        La interactividad del usuario es una parte esencial de muchas aplicaciones web modernas. JavaScript permite crear elementos interactivos como botones, formularios, menús desplegables, ventanas emergentes, carruseles de imágenes, entre otros.
+        Las acciones del usuario, como hacer clic en un botón, enviar un formulario, arrastrar y soltar elementos, cambiar el tamaño de una ventana, etc., pueden desencadenar eventos JavaScript que realizan acciones específicas en respuesta.
+        Por ejemplo, al hacer clic en un botón de "Me gusta" en una publicación de redes sociales, se puede utilizar JavaScript para enviar una solicitud al servidor y actualizar la interfaz de usuario para mostrar el nuevo recuento de "Me gusta" sin necesidad de recargar la página.
+    
+    - Manipulación del DOM (Document Object Model):
+
+        El DOM es una representación del documento HTML de una página web que el navegador crea y con el que trabaja el JavaScript.
+        JavaScript se utiliza para manipular el DOM dinámicamente, permitiendo agregar, eliminar o modificar elementos HTML y sus atributos en respuesta a eventos del usuario o a cambios en los datos.
+        Por ejemplo, JavaScript se puede utilizar para crear una lista de tareas pendientes que se actualiza dinámicamente cuando el usuario agrega o elimina elementos de la lista. Esto se logra manipulando el DOM para agregar o eliminar elementos de la lista según las acciones del usuario.
 
 2. **¿Cómo se puede añadir JavaScript a un documento en HTML?**
+
+|   Usando la etiqueta `<script>`

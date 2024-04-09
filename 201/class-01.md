@@ -4,29 +4,94 @@
 
 1. **Crea un poema corto describiendo cómo HTTP envía datos entre computadoras**
 
+    Todo lo que busca el cliente,
+    lo tiene un servidor existente,
+    y el navegador de manera muy insistente,
+    va pidiendo mediante peticiones http,
+    una copia para que pueda verlo nuestro cliente.
 
+2. **Describe como los archivos HTML, CSS y JS son "analizados" en el navegador**
 
-2. **Desccribe como los archivos HTML, CSS y JS son "analizados" en el navegador**
+    Primero analiza e interpreta el archivo HTML para saber todo el contenido que este tiene, para luego revisarlo y estructurarlo de acuerdo al orden que está.
+    Luego gracias a los archivos CSS determina la estética de cada uno de los elementos y las modificaciones que ha tenido para poder detallarlos en el monitor deel usuario, para luego revisar el JS y termina todo el análisis.
 
-3. **¿Cómo pueds encontrar imágenes para agregar a una página web?**
+    ¡Y todo eso en cuestión de segundos!
+
+3. **¿Cómo puedes encontrar imágenes para agregar a una página web?**
+
+    Simple! Solo tienes que hacer clic derecho en la imagen que desees agregar (previamente buscada en tu navegador), se le da a guardar imangen y la guardas en la carpeta de tu proyecto.
+    
+    Otra manera, ha repitiendo los pasos pero en vez de dar a guardar imágene, se copia la dirección web de la imágen y se invoca con una url en nuestro html.
 
 4. **¿Cómo creas una `String` en comparación con un `Number`en Javascript?**
 
+    Usando un comparador simple: `==` ya que va a ver el valor de ambos y no si es un String o un Number, OJO! Si usas un comprador estricto: `===` indicará un error porque son tipos de variables distintas.
+
 5. **¿Qué es una `Variable` y por qué son importantes en JavaScript?**
+
+    Una variable es un espacio de memoria destinada a guardar información, son importantes porque como mencioné antes, permite almacenar información que debe ser útil para el desempeño del programa.
 
 ## Introducción a HTML
 
 1. **¿Qué es un atributo en HTML?**
 
+    Se le puede considerar como una **caracterísitca adicional** a un elemento para modificarlo.
+
 2. **Describe la anatomía de un elemento en HTML**
+
+    Como vimos en las clases Code 102, cuenta de 3 partes, un "Opening tag", un "Closing tag" y un "Content" (Como muestra la imágen del texto "Primeros pasos con HTML"), la etiqueta de apertura, como dice el nombre abre la etiqueta, ahí dentro podemos añadir atributos; luego en el contenido, como se deduce va el contenido del elemento y por último en la etiqeuta de cierra permite cerrar el elemento.
 
 3. **¿Cuál es la diferencia entre las etiquetas `<article>`y `<section>`**
 
+    Según una comparacióne extraída con ayuda de el Modelo IA de OpenAI, `<article>`es utilizado para un "contenido autónomo y autocontenido", mientras que `<section>` se utiliza para "agrupar contenido relacionado".
+
 4. **¿Qué elementos se incluyen en una página web "típica"?**
+
+    Debería contender:
+
+    - \<head>
+    - \<body>
+        - \<header>
+        - \<main>
+        - \<footer>
 
 5. **¿Cómo influyen los metadatos en el Posicionamiento en buscadores (SEO)?**
 
+    Los metadatos vana proporcionar información importante sobre el contenido de nuestra página web ayudando a su visibilidad.
+
 6. **¿Cómo se utiliza la etiqueta `<meta>` en HTML cuando se quiere especificar metadatos?**
+
+    Meta se puede utilizar para:
+
+    - Especificación de la codificación del documento
+
+        `<meta charset="UTF-8">`
+
+    - Especificar la descripción de páginas web
+
+        `<meta name="description" content="Descripción del contenido de la página web">`
+
+    - Especificar palabras claves
+
+        `<meta meta="keywords" content="palabra clave1, palabra clave2">`
+
+    - Indicar el autor del documento
+
+        `<meta name="author" content="Nombre del autor">`
+
+    - Especificar el viewport para un diseño adaptable
+
+        `<meta name="viewport" content="width=device-with, initial-scale=1.0">`
+
+    - Especificación de la vista previa de la pa´gina en redes sociales (Este es aportado por ChatGPT! Que desconocía que podía hacerse esto!)
+
+        `<meta property="og:title" content="Título de la página">`
+
+        `<meta property="og:description" content="Descripción de la página">`
+
+        `<meta property="og:image" content="URL de la imagen">`
+        
+        `<meta property="og:url" content="URL de la página">`
 
 ## Miscelánea
 

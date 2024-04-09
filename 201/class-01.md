@@ -1,5 +1,7 @@
 # Clase 01: Lectura
 
+Es bueno siempre recordar para mejorar! Un breve repaso sobre como funciona HTML, CSS y JavaScript!
+
 ## Primeros Pasos
 
 1. **Crea un poema corto describiendo cómo HTTP envía datos entre computadoras**
@@ -139,3 +141,7 @@
 2. **¿Cómo se puede añadir JavaScript a un documento en HTML?**
 
 |   Usando la etiqueta `<script>`
+
+## Cosas de las que quiero saber
+
+- Me gustaría saber e indagar sobre todo lo que puedo hacer con CSS y JavaScript para que se vea muy dinámica y llamativa una página web

@@ -19,5 +19,5 @@ Para que me conozcan un poco mejor, aquí unos datos sobre mí!
 + A pesar de haber estudiando ingeniería de sistemas, me gusta mucho la medicina, por ende mi tesis busca crear una IA que ayude a los especialistas.
 
 ## TABLA DE CONTENIDOS
-- [Code 102](./102/README.md)
-- [Code 202](./202/README.md)
+- [Code 102](/102/README.md)
+- [Code 202](/201/README.md)

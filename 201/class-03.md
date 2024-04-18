@@ -65,13 +65,14 @@
 
     - Margin: Margen del contenedor
     - Padding: Espacio del contenido
-    - Contenido: Lo que se encuentra 
+    - Contenido: Lo que se encuentra dentro del contenedor
+    - Border: Como dice su nombre en español, corresponde al border del box
 
 ## Aprende JS
 
-1. ¿Qué `tipos de daots`puedes almacenar en un `Array`?
+1. ¿Qué `tipos de datos`puedes almacenar en un `Array`?
 
-
+    Se puede almacenar cualquier tipo de dato u objeto dentro de un array.
 
 2. ¿El array `people` es un de JavaScript válido? De ser así, ¿cómo puedo acceder a los valores almacenados? Y si no, ¿por qué?
 
@@ -79,13 +80,17 @@
     ¿const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
     ```
 
-
+    Si es válido, es un arreglo que almacena otros arreglos, para recorrerlo se tiene que recorrer individualmente por medio de los índices de cada "subarreglo"
 
 3. Enumera **cinco** operadores abreviados de asignación en javascript y describe lo que hacen.
 
+    1. += que indica la sumatoria y asignación del valor de la suma
+    2. -= que indica la resta y asignación del valor de la resta
+    3. *= que indica la multiplicación y asignación del producto
+    4. /= que indica la división y asignación del cociente
+    5. %= que indica la división y asignación del residuo
 
-
-4. Lee el código a continuación, evalúa la último `expresión` y explica cuál sería el resultado y por qué
+4. Lee el código a continuación, evalúa la última `expresión` y explica cuál sería el resultado y por qué
 
     ```
     let a = 10;
@@ -96,9 +101,15 @@
     (a + c) + b;
     ```
 
+    El resultado sería: `10dog` ya que primero realiza la suma `(a+c)` que hace que concatene dando "10dog", y luego la variable se, al tener el dato "false" hace que esa varibale sea de tipo boolean, por ende no concatenaría nada, dando por resultado *10dog*
+
 5. Describe un ejemplo cotidiano de por qué una declaración condicional se debería usar en un programa en JavaScript
 
-6. Da un ejemplo de por qué un `Bucle`es útil en JavaScript
+    En la parte de validación de datos, cuando el programa solicite un dato, y queremos que este sí o sí sea completado, se usa una condicional que verifique que la variable que almacena el dato no esté ni vacío ni null.
+
+6. Da un ejemplo de por qué un `Bucle` es útil en JavaScript
+
+    Tomando en consideración la respuesta anterior, se puede aplicar un bucle que haga que se repita la solicitud de datos hasta que se ingrese algún valor.
 
 ## Cosas de las que quiero saber más
 

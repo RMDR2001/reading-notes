@@ -28,7 +28,7 @@
 
 2. ¿Cuales son algunos de las diferencias entre los elementos `block-level`e `inline`?
 
-    Como su nombre lo dice, (hablando bajo un "entorno CSS"), hay dos maneras de poder modificar los estilos de un elemento podemos hacerlo en "nivel del bloque", y todos los elementos de ese bloque se modificara, en cambio, inline es para modificar un elemento en particular, dentro de la estructura HTML, como ya hemos visto y practicado anteriormente, en distitnos cursos.
+    block-level hace que todo el contenedor ocupe todo el ancho de la ventana del navegador, en cambio, inline hace que ambos elementos estén en la misma línea (Siempre y cuando el ancho lo permita)
 
 3. EL ___ positioning es la posición por defecto de todos los elementos en html.
 

@@ -59,11 +59,13 @@
 
 1. Describe las propiedades de `margin` y `padding` en CSS como si fueran los personajes de una historia. ¿Cuál es el rol en lahistoria: "El Box Model"?
 
-    
+    El margin es el espacio de un contenedor con otros, a diferencia del padding que es el espacio de cada elemento dentro de su contenedor.
 
-2. Enumera y describe las **cuatro** partes ded un box del elementos HTML según el `box model`
+2. Enumera y describe las **cuatro** partes de un box del elementos HTML según el `box model`
 
-
+    - Margin: Margen del contenedor
+    - Padding: Espacio del contenido
+    - Contenido: Lo que se encuentra 
 
 ## Aprende JS
 

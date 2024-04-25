@@ -4,7 +4,7 @@
 
 1. **¿Cómo le describirías un objeto a un amigo sin conocimiento técnico con el que creciste?**
 
-    Un objeto podría definirse como un **molde**, con el cual podemos crear varias copias que tengas sus caracterísiticas particulares, a parte de las que tiene definido ese molde.
+    Un objeto podría definirse como ua entiedad que representa un conjuto de datos que tienen algún realció entre sí.
 
 2. **¿Cuáles son algunas de las ventajas de crear objetos literales?**
 

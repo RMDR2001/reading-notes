@@ -2,6 +2,8 @@
 
 ## Domain Modeling
 
+Las clases son muy importante en el desarrollo de apps, ya que nos permiten crear objetos que como desarrolladores creemos que son necesarios para un correcto funcionamiento de nuestro código.
+
 1. **Explica por qué necesitamos los modelos de dominio**
 
     Segun una expliación dada por la IA: "Los modelos de dominio son esenciales porque nos ayudan a comprender, representar y trabajar con eficacia en problemas complejos, proporcionando claridad conceptual, abstracción, guía para el diseño y la implementación, facilitando la comunicación y permitiendo el mantenimiento y la evolución del sistema"
@@ -41,3 +43,9 @@
     **Herencia**
 
     Por ejemplo, en mi puesto de analista de sistemas, tuve practicante preprofesionales, que debían cumplir con algunas responsabilidades propias de su rol, pero además tenían algunas que compartían conmigo, esas responsabilidades que comparten conmigo se les podría decir que "heredan" del prototipo de "analista de sistemas"
+
+    ## Cosas de las que quiero saber más
+
+    - Me gustaría saber sobre la correcta creación de objetos con constructores
+
+    - Aún me cuesta un poco sobre diferenciar entre herencia y polimorfismo, me gustaría se me recomendara algún libro, video, artículo, etc. que me pueda ayudar a comprender mejor esos temas.

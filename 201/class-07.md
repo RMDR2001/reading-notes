@@ -44,7 +44,7 @@ Las clases son muy importante en el desarrollo de apps, ya que nos permiten crea
 
     Por ejemplo, en mi puesto de analista de sistemas, tuve practicante preprofesionales, que debían cumplir con algunas responsabilidades propias de su rol, pero además tenían algunas que compartían conmigo, esas responsabilidades que comparten conmigo se les podría decir que "heredan" del prototipo de "analista de sistemas"
 
-    ## Cosas de las que quiero saber más
+## Cosas de las que quiero saber más
 
     - Me gustaría saber sobre la correcta creación de objetos con constructores
 

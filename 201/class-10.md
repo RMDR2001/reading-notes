@@ -35,3 +35,7 @@
 1. ¿Qué es el call stack?
 
     En pocas palabras, una sección encargada de mostrar todo el código que se ha ejecutado para llegar a la actual línea.
+
+## Cosas de las que quiero saber más
+
+    Me gustaría saber más sobre los errores y la manera de interpretar **correctamente** las alertas de errores, ya que muchas veces se me ha complicado la lectura de estos y los reportes que dan, ya que indican la línea de código donde se encuentra el error, pero muchas veces es una línea arriba, o una abajo... No entiendo muy bien

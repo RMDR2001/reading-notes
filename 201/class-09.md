@@ -1,10 +1,14 @@
-# Clase 08: Lectura
+# Clase 09: Lectura
 
 ## Formularios en HTML
 
 1. **¿Por qué los formularios son tan importantes en el desarrollo web?**
 
+    Su importancia se debe a que es "uno de losp rincipales puntos de interacción entre un usuario y un sitio web o aplicación"
+
 2. **Al diseñar un formulario, ¿cuáles son algunas de las cosas más importantes a tener en cuenta sobre la experiencia de usuario?**
+
+    
 
 3. **Enumera 5 elementos de los formularios y explica su importancia**
 

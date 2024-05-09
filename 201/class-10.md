@@ -29,7 +29,6 @@
 1. Define que es un breakpoint
 
     Según la respuesta dada por ChatGPT:
-    
     > Un breakpoint, en el contexto de la programación y especialmente en el desarrollo de software, es un punto predefinido en el código donde la ejecución del programa se detiene temporalmente con el fin de permitir a los desarrolladores examinar el estado del programa en ese punto y depurar posibles errores. Los breakpoints son herramientas fundamentales en los entornos de desarrollo integrados (IDE) y se utilizan comúnmente para inspeccionar variables, seguir la ejecución del programa línea por línea y entender el flujo de control del código durante el proceso de desarrollo y depuración.
 
 1. ¿Qué es el call stack?
@@ -38,4 +37,4 @@
 
 ## Cosas de las que quiero saber más
 
-    Me gustaría saber más sobre los errores y la manera de interpretar **correctamente** las alertas de errores, ya que muchas veces se me ha complicado la lectura de estos y los reportes que dan, ya que indican la línea de código donde se encuentra el error, pero muchas veces es una línea arriba, o una abajo... No entiendo muy bien
+    Me gustaría saber más sobre los errores y la manera de interpretar **correctamente** las alertas de errores, ya que muchas veces se me ha complicado la lectura de estos y los reportes que dan, ya que indican la línea de código donde se encuentra el error, pero muchas veces es una línea arriba, o una abajo... No entiendo muy bien.

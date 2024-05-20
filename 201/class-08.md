@@ -14,5 +14,4 @@
 
 2. **¿Cómo es que este tema se conecta con tus metas a largo plazo?**
 
-
 ## Cosas de las que quiero saber más

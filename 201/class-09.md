@@ -65,3 +65,5 @@
         - "Es decir, el evento se propaga desde el nodo objetivo hacia el nodo exterior del árbol DOM"
 
 ## Cosas de las que quiero saber más
+
+    Tengo interés con respecto a Event Capturing y Event Bubbling, ya que tenemos el conocimiento teórico, pero no tengo clara la idea de como se aplica en la práctica.

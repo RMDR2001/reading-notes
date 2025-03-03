@@ -1,4 +1,6 @@
-# Promp sugerido para iniciar
+# Read 06
+
+## Promp sugerido para iniciar
 
 ```
 Crea un artículo en español de aproximadamente 300 palabras sobre: "React - Pasar funciones como props".
@@ -8,7 +10,7 @@ Incluye: ¿Por qué usarlo?, Ejemplo básico y Explicación a profundidad.
 Evita sugerir o hablar sobre otros conceptos más avanzados.
 ```
 
-## Respuesta de CHAT GPT 
+### Respuesta de CHAT GPT 
 
     # React - Pasar funciones como props
 
@@ -50,28 +52,28 @@ Evita sugerir o hablar sobre otros conceptos más avanzados.
 
     Esta técnica centraliza el estado y permite reutilizar componentes, clave para interfaces escalables en React.
 
-# Reflexiones para Analizar Críticamente
+## Reflexiones para Analizar Críticamente
 
-## 1. Comunicación de datos vs comunicación de eventos
+### 1. Comunicación de datos vs comunicación de eventos
 
 ¿En qué se diferencian las props que envian datos estáticos de las funciones como props que envían eventos o decisiones?
 
-## 2. Responsabilidad y flujo de control
+### 2. Responsabilidad y flujo de control
 
 Si un componente padre le pasa una función al hijo para que la use cuando el usuario haga clic, ¿quién realmente tiene el control de lo que pasa al final? ¿El padre o el hijo?
 
-## 3. Estado centralizado vs estado local
+### 3. Estado centralizado vs estado local
 
 Considera cuándo es mejor manejar el estado directamente en el hijo y cuándo conviene centralizarlo en el padre. ¿Cómo afecta esto la escalabilidad y el mantenimiento del código?
 
-## 4. Funciones anónimas y de flecha
+### 4. Funciones anónimas y de flecha
 
 En muchos ejemplos de React, se usan funciones de flecha directamente dentro de un `onClick` o al pasar funciones como props. ¿Qué implicaciones tiene esto en términos de perfomance y re-denrizado? ¿Es siempre la mejor práctica o hay situaciones donde debría evitarse?
 
-## 5. Delegación de responsabilidades
+### 5. Delegación de responsabilidades
 
 Imagina un componente hijo que necesita valida datos antes de llamar a la función del padre. ¿Dónde debería ocurrir esa validación: en el hijo o en el padre?
 
-## 6. Escalabilidad y legabilidad
+### 6. Escalabilidad y legabilidad
 
 Si un componente padre pasa múltiples funciones como props a un componente hijo (seleccionar, eliminar, actualizar, etc.), ¿cómo afecta esto la legabilidad y mantenibilidad del código?

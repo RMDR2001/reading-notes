@@ -1,4 +1,4 @@
-# Read 06
+# Lectura y Debate 03
 
 ## Promp sugerido para iniciar
 
